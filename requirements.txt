@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn
+python-multipart
+pdfplumber
+python-docx
+plotly
+reportlab
+requests
